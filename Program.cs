@@ -1,5 +1,6 @@
 ﻿using primeirosExercicios01_02;
 using System.Security.Cryptography;
+//resolvido 28/11
 
 Pessoas p1, p2;
 
